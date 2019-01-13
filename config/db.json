@@ -12,10 +12,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "mysql://sefezfd7j55mjy6y:vrgpfdbeww73oene@z37udk8g6jiaqcbx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/aklvhmao7mh94kd8",
+    "username": "sefezfd7j55mjy6y",
+    "password": "vrgpfdbeww73oene",
+    "database": "aklvhmao7mh94kd8",
+    "host": "z37udk8g6jiaqcbx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	",
     "dialect": "mysql"
   }
 }
