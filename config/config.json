@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "alistluxury",
-    "password": "Meechie1!",
-    "database": "newDB",
-    "host": "localhost",
+    "username": "bxwrlcamuowaja",
+    "password": "f47e6e566341f43fc0276bdb5cdf46b6c10e32c46ded4a9a739320d536c32168",
+    "database": "di7369mb534s0",
+    "host": "ec2-23-21-86-22.compute-1.amazonaws.com",
     "port": "5432",
     "dialect": "postgres"
   },
