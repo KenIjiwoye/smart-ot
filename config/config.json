@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "ken",
-    "password": null,
+    "username": "alistluxury",
+    "password": "Meechie1!",
     "database": "newDB",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "port": "5432",
-    "dialect": "pg"
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
@@ -15,11 +15,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "ken",
+    "username": "root",
     "password": null,
-    "database": "newDB",
+    "database": "database_production",
     "host": "127.0.0.1",
-    "port": "5432",
-    "dialect": "pg"
+    "dialect": "mysql"
   }
 }

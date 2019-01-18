@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "password1",
+    "username": "alistluxury",
+    "password": "",
     "database": "newDB",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "port": "5432",
     "dialect": "postgres"
   },
@@ -15,11 +15,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "postgres",
-    "password": "password1",
+    "username": "alistluxury",
+    "password": "Meechie1!",
     "database": "newDB",
-    "host": "127.0.0.1",
-    "port": "5432",
+    "host": "localhost",
+    "port": "5050",
     "dialect": "postgres"
   }
 }
